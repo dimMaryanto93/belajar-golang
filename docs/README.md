@@ -22,3 +22,10 @@ Setelah itu saya biasanya membuat environment variables untuk menyimpan semua li
 mkdir -p .go/ && \
 echo "export GOPATH=~/.go" >> ~/.zshrc
 ```
+
+Kemudian kita coba test `go version`, jika outputnya seperti berikut maka sudah OK:
+
+```bash
+examples/go-programming [basic/installation●] » go version
+go version go1.19.1 darwin/amd64
+```
