@@ -5,6 +5,7 @@ Go started in September 2007 when Robert Griesemer, Ken Thompson, and I began di
 Materi yang kita akan pelajar adalah core atau basic Go programming berdasarkan official website diantaranya:
 
 1. Basic
+   - Installation
    - Packages
    - Imports
    - Functions
@@ -35,7 +36,6 @@ Materi yang kita akan pelajar adalah core atau basic Go programming berdasarkan 
    - Range and Close
    - Select
    - `sync.Mutex`
-   - 
 6. Data
     - Relational database
     - NoSQL
